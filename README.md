@@ -40,9 +40,11 @@ This takes more than 30 minutes, but it's worth your time :)
 ### Install 2D design software
 [Download Inkscape](https://inkscape.org/), a free 2D design software.
 
+(Or [OpenSCAD](https://openscad.org/), if you prefer code.)
+
 No laptop? Use one of our computers.
 
-### Set up 2D design software
+### Set up Inkscape
 Set _File > Document properties >_ [display units](https://inkscape-manuals.readthedocs.io/en/latest/managing-workspace.html?#document-properties-dialog) to _mm_.
 
 Set _Object > Fill and stroke >_ [stroke width](https://inkscape-manuals.readthedocs.io/en/latest/fill-and-stroke-dialog.html) to _0.01 mm_.
