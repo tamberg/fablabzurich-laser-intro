@@ -58,6 +58,10 @@ Ask the lab manager for help with the laser cutter.
 
 Take notes and try it yourself next time.
 
+Configure laser power and speed.
+
+Set its focus and origin.
+
 ### Iterate...
 Adapt your design and your settings, try again.
 
