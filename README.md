@@ -12,7 +12,7 @@ It comes with software to configure speed and power settings.
 
 We've got a [AKJ_6090](http://wiki.zurich.fablab.ch/AKJ_6090) and a [TT900](http://wiki.zurich.fablab.ch/TT900) laser cutter.
 
-Both of them cut sheets of up to 60 x 90 cm.
+They cut sheets of up to 600 x 900 mm, thickness < 10 mm.
 
 ## The easy way
 
