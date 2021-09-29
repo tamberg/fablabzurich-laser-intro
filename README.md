@@ -43,11 +43,13 @@ This takes more than 30 minutes, but it's worth your time :)
 No laptop? Use one of our computers.
 
 ### Create your design
-Set units to _mm_ and line width to _0.01 mm_.
+Set units to _mm_, [stroke width](https://inkscape-manuals.readthedocs.io/en/latest/fill-and-stroke-dialog.html) to _0.01 mm_.
 
-Draw some squares and circles.
+Draw some [squares](https://inkscape-manuals.readthedocs.io/en/latest/squares-and-rectangles.html) and [circles](https://inkscape-manuals.readthedocs.io/en/latest/circles-ellipses-and-arcs.html).
 
-Save as DXF or SVG.
+[Align and distribute](https://inkscape-manuals.readthedocs.io/en/latest/align-and-distribute.html) objects.
+
+Save as PDF, DXF or SVG.
 
 ### Cut your design
 Ask the lab manager for help with the laser cutter.
