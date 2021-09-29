@@ -6,7 +6,7 @@ A FabLab is an open workshop for digital fabrication.
 Here's a [short presentation](http://www.tamberg.org/fablabzurich/2017/WasIstEinFabLab.pdf) of the general ideas.
 
 ## What's a laser?
-A laser or laser cutter cuts wood, cardboard, leather, etc. (but no PVC) with light.
+A laser or laser cutter cuts plywood, cardboard, leather, etc. (but no PVC) with light.
 
 It comes with a software tool to configure speed and power settings.
 
