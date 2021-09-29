@@ -27,7 +27,7 @@ This takes about 15 minutes, if a laser cutter is available.
 ### Download a design
 Download a design e.g. from https://www.thingiverse.com/tag:laser
 
-Or use a parametric design tool, e.g. a [box generator](https://ddg.co/?q=box+generator) (set it to mm)
+Or use a parametric design tool, e.g. a [box generator](https://ddg.co/?q=box+generator) (set to _mm_)
 
 Our laser software works with DXF, SVG or PDF design files.
 
