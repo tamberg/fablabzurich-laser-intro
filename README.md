@@ -43,7 +43,9 @@ This takes more than 30 minutes, but it's worth your time :)
 No laptop? Use one of our computers.
 
 ### Create your design
-[Set display units](https://inkscape-manuals.readthedocs.io/en/latest/managing-workspace.html?#document-properties-dialog) to _mm_, [set stroke width](https://inkscape-manuals.readthedocs.io/en/latest/fill-and-stroke-dialog.html) to _0.01 mm_.
+[Set display units](https://inkscape-manuals.readthedocs.io/en/latest/managing-workspace.html?#document-properties-dialog) to _mm_.
+
+[Set stroke width](https://inkscape-manuals.readthedocs.io/en/latest/fill-and-stroke-dialog.html) to _0.01 mm_.
 
 Draw some [squares](https://inkscape-manuals.readthedocs.io/en/latest/squares-and-rectangles.html) and [circles](https://inkscape-manuals.readthedocs.io/en/latest/circles-ellipses-and-arcs.html).
 
