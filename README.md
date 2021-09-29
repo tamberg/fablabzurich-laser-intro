@@ -10,7 +10,9 @@ A laser or laser cutter cuts wood, cardboard, leather, etc. (but no PVC) with li
 
 It comes with software to configure speed and power settings.
 
-We've got a [AKJ_6090](http://wiki.zurich.fablab.ch/AKJ_6090) and a [TT900](http://wiki.zurich.fablab.ch/TT900) laser.
+We've got a [AKJ_6090](http://wiki.zurich.fablab.ch/AKJ_6090) and a [TT900](http://wiki.zurich.fablab.ch/TT900) laser cutter.
+
+Both of them cut sheets of up to 60 x 90 cm.
 
 ## The easy way
 
