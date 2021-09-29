@@ -29,7 +29,7 @@ Download a design e.g. from https://www.thingiverse.com/tag:laser
 
 Or use a parametric design tool, e.g. a [box generator](https://ddg.co/?q=box+generator) (use _mm_).
 
-Our laser software works with DXF, SVG or PDF design files.
+[Our laser software](https://lightburnsoftware.com/) works with DXF, SVG or PDF design files.
 
 ### Cut the design
 Ask the lab manager for help with the laser cutter.
