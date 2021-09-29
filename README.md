@@ -35,7 +35,7 @@ Our laser software works with DXF, SVG or PDF design files.
 Ask the lab manager for help with the laser cutter.
 
 ## The hard way
-This takes more than 30 minutes, but it's worth your time :)
+This takes more than 30 minutes, but it's worth your time.
 
 ### Install 2D design software
 [Download Inkscape](https://inkscape.org/), a free 2D design software.
