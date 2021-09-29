@@ -42,6 +42,8 @@ This takes more than 30 minutes, but it's worth your time :)
 
 No laptop? Use one of our computers.
 
+Enable _View > Display mode > [x] Visible hairlines_
+
 [Set stroke width](https://inkscape-manuals.readthedocs.io/en/latest/fill-and-stroke-dialog.html) to _0.01 mm_.
 
 [Set display units](https://inkscape-manuals.readthedocs.io/en/latest/managing-workspace.html?#document-properties-dialog) to _mm_.
