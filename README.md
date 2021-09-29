@@ -45,6 +45,8 @@ Set units to mm and line width to 0.01 mm.
 
 Draw some squares and circles.
 
+Save as DXF or SVG.
+
 ### Cut your design
 Ask the lab manager for help with the laser cutter.
 
