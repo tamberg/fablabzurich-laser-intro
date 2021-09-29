@@ -8,7 +8,7 @@ Here's a [short presentation](http://www.tamberg.org/fablabzurich/2017/WasIstEin
 ## What's a laser?
 A laser or laser cutter cuts plywood, cardboard, leather, etc. (but [no PVC](https://lasergods.com/can-i-cut-vinyl-pvc-in-a-laser/)) with light.
 
-It comes with a software tool to configure speed and power settings.
+It comes with a [software tool](https://lightburnsoftware.com/) to configure speed and power settings.
 
 We've got a [blue AKJ_6090](http://wiki.zurich.fablab.ch/AKJ_6090) and a [red TT900](http://wiki.zurich.fablab.ch/TT900) laser cutter.
 
@@ -29,7 +29,7 @@ Download a design e.g. from https://www.thingiverse.com/tag:laser
 
 Or use a parametric design tool, e.g. a [box generator](https://ddg.co/?q=box+generator) (use _mm_).
 
-[Our laser software](https://lightburnsoftware.com/) works with DXF, SVG or PDF design files.
+Our laser software works with DXF, SVG or PDF design files.
 
 ### Cut the design
 Ask the lab manager for help with the laser cutter.
