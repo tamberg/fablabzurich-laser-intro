@@ -58,7 +58,7 @@ Ask the lab manager for help with the laser cutter.
 
 Take notes and try it yourself next time.
 
-Configure laser power and speed.
+Configure laser speed and power.
 
 Set its focus and origin.
 
