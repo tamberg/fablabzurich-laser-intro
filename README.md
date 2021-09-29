@@ -40,8 +40,6 @@ This takes more than 30 minutes, but it's worth your time :)
 ### Install 2D design software
 [Download Inkscape](https://inkscape.org/), a free 2D design software.
 
-(Or [OpenSCAD](https://openscad.org/), if you prefer code.)
-
 No laptop? Use one of our computers.
 
 ### Set up Inkscape
