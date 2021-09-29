@@ -22,7 +22,7 @@ The laser cutter can either cut or edge a line.
 If you need both, use different colors.
 
 ## The easy way
-This takes about 15 minutes.
+This takes about 15 minutes, if a laser cutter is available.
 
 ### Download a design
 Download a design e.g. from https://www.thingiverse.com/tag:laser
@@ -33,9 +33,7 @@ Our laser software works with DXF, SVG or PDF design files.
 Ask the lab manager for help with the laser cutter.
 
 ## The hard way
-This takes more than 30 minutes.
-
-But it's worth your time!
+This takes more than 30 minutes, but it's worth your time :)
 
 ### Install some software
 
