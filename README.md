@@ -47,7 +47,7 @@ Set _File > Document properties >_ [display units](https://inkscape-manuals.read
 
 Set _Object > Fill and stroke >_ [stroke width](https://inkscape-manuals.readthedocs.io/en/latest/fill-and-stroke-dialog.html) to _0.01 mm_.
 
-Enable _View > Display mode > [x] Visible hairlines_
+Enable _View > Display mode > [x] Visible hairlines_.
 
 ### Create your design
 Draw some [squares](https://inkscape-manuals.readthedocs.io/en/latest/squares-and-rectangles.html) and [circles](https://inkscape-manuals.readthedocs.io/en/latest/circles-ellipses-and-arcs.html).
