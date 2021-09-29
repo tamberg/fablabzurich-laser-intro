@@ -3,7 +3,7 @@
 ## What's a FabLab?
 A FabLab is an open workshop for digital fabrication.
 
-Here's a [short presentation](http://www.tamberg.org/fablabzurich/2017/WasIstEinFabLab.pdf) of the general ideas.
+Here's a [short presentation](http://www.tamberg.org/fablabzurich/2017/WasIstEinFabLab.pdf) of the general idea.
 
 ## What's a laser?
 A laser or laser cutter cuts plywood, cardboard, leather, etc. (but [no PVC](https://lasergods.com/can-i-cut-vinyl-pvc-in-a-laser/)) with light.
