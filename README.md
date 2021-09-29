@@ -35,7 +35,8 @@ Ask the lab manager for help with the laser cutter.
 ## The hard way
 This takes more than 30 minutes, but it's worth your time :)
 
-### Install some software
+### Install 2D design software
+[Download Inkscape](https://inkscape.org/release/), a free 2D design software.
 
 ### Create your design
 
