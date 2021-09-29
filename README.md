@@ -8,7 +8,7 @@ Here's a [short presentation](http://www.tamberg.org/fablabzurich/2017/WasIstEin
 ## What's a Laser?
 A laser or laser cutter cuts wood, cardboard, leather, etc. (but no PVC) with light.
 
-It comes with software to configure speed and power settings.
+It comes with a software tool to configure speed and power settings.
 
 We've got a [red AKJ_6090](http://wiki.zurich.fablab.ch/AKJ_6090) and a [blue TT900](http://wiki.zurich.fablab.ch/TT900) laser cutter.
 
