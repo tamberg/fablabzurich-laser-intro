@@ -43,7 +43,7 @@ This takes more than 30 minutes, but it's worth your time :)
 No laptop? Use one of our computers.
 
 ### Create your design
-Set units to mm and line width to 0.01 mm.
+Set units to _mm_ and line width to _0.01 mm_.
 
 Draw some squares and circles.
 
