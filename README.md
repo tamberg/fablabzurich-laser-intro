@@ -51,7 +51,7 @@ Draw some [squares](https://inkscape-manuals.readthedocs.io/en/latest/squares-an
 
 [Align and distribute](https://inkscape-manuals.readthedocs.io/en/latest/align-and-distribute.html) them.
 
-[Save as SVG](https://inkscape-manuals.readthedocs.io/en/latest/saving.html), DXF or PDF.
+[Save as SVG](https://inkscape-manuals.readthedocs.io/en/latest/saving.html) or PDF.
 
 ### Cut your design
 Ask the lab manager for help with the laser cutter.
