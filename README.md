@@ -36,10 +36,21 @@ Ask the lab manager for help with the laser cutter.
 This takes more than 30 minutes, but it's worth your time :)
 
 ### Install 2D design software
-[Download Inkscape](https://inkscape.org/release/), a free 2D design software.
+[Download Inkscape](https://inkscape.org/), a free 2D design software.
+
+No laptop? Use one of our computers.
 
 ### Create your design
+Set units to mm and line width to 0.01 mm.
+
+Draw some squares and circles.
 
 ### Cut your design
+Ask the lab manager for help with the laser cutter.
+
+Take notes and try it yourself next time.
 
 ### Iterate...
+Adapt your design and your settings, try again.
+
+Keep going, you will get there :)
