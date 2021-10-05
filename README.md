@@ -1,5 +1,5 @@
 # FabLab Zürich Laser Intro
-A very short introduction to laser cutting at [FabLab Zürich](https://zurich.fablab.ch/).
+A quick and easy introduction to laser cutting at [FabLab Zürich](https://zurich.fablab.ch/).
 
 ## What's a FabLab?
 A FabLab is an open workshop for digital fabrication.
