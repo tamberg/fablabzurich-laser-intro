@@ -66,6 +66,13 @@ Configure laser speed and power.
 
 Set laser focus and origin.
 
+### Stay safe
+Make sure the air filter is switched on.
+
+Always close the lid before cutting.
+
+Never leave the laser unattended.
+
 ### Iterate...
 Adapt your design and your settings, try again.
 
