@@ -1,4 +1,5 @@
 # FabLab Zürich Laser Intro
+A very short introduction to laser cutting at [FabLab Zürich](https://zurich.fablab.ch/).
 
 ## What's a FabLab?
 A FabLab is an open workshop for digital fabrication.
@@ -75,4 +76,3 @@ Keep going, you will get there :)
 * [LightBurn laser software docs](https://github.com/LightBurnSoftware/Documentation/blob/master/README.md)
 * [AKJ6090 laser tutorial](http://wiki.zurich.fablab.ch/images/9/97/Anleitung_AKJ6090.pdf)
 * [FabLab Zürich Wiki](http://wiki.zurich.fablab.ch/)
-* [FabLab Zürich Web](https://zurich.fablab.ch/)
