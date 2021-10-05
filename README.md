@@ -69,3 +69,9 @@ Set laser focus and origin.
 Adapt your design and your settings, try again.
 
 Keep going, you will get there :)
+
+## Resources
+* [LightBurn docs](https://github.com/LightBurnSoftware/Documentation/blob/master/README.md)
+* [AKJ6090 tutorial](http://wiki.zurich.fablab.ch/images/9/97/Anleitung_AKJ6090.pdf) (German)
+* [http://wiki.zurich.fablab.ch/](FabLab Zürich Wiki)
+* [https://zurich.fablab.ch/](FabLab Zürich Web)
