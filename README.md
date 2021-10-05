@@ -67,7 +67,7 @@ Configure laser speed and power.
 Set laser focus and origin.
 
 ### Stay safe
-Make sure the air filter is switched on.
+Make sure the [air filter](http://wiki.zurich.fablab.ch/BOFA_AD2000_iQ) is switched on.
 
 Always close the lid before cutting.
 
